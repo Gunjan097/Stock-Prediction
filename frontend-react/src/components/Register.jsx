@@ -38,9 +38,8 @@ const Register = () => {
   return (
     <>
       <div className="container">
-        <div className="row justify-content-center p-5 ">
-          <div className="col-md-6 p-5 bg-light-dark rounded">
-
+        <div className="row justify-content-center m-6 p-5">
+          <div className="col-md-6 p-3 bg-light-dark rounded">
           <h3 className='text-center'>Create an Account</h3>
           <div className="m-3"></div>
           <form action="" onSubmit={ handleRegistration}>
