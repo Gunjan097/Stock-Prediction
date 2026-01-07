@@ -10,7 +10,7 @@ const Main = () => {
 
         <h1>Stock Prediction Portal</h1>
         <p>Welcome to the Stock Prediction Portal. Here you can analyze and predict stock market trends using advanced machine learning algorithms. Data is processed through a neural network model trained on historical stock data.</p>
-        <Button text="Login" class='btn btn-outline-info' url="/login"/>
+        <Button text="Explore" class='btn btn-outline-info' url="/dashboard"/>
       </div>
         </div>
     </>
